@@ -1,0 +1,81 @@
+
+
+@keyframes text {
+    0% {
+
+        content: "Desi|";
+    }
+
+    12% {
+        content: "Designer|";
+    }
+
+    20% {
+
+        content: "Desi|";
+    }
+
+    30% {
+
+        content: "|";
+    }
+
+    40% {
+
+        content: "Devel|";
+
+    }
+
+    45% {
+        content: "Developer|";
+    }
+
+    50% {
+
+        content: "Devel|";
+    }
+
+    55% {
+
+        content: "|";
+    }
+
+    60% {
+
+        content: "Fre|";
+    }
+
+    65% {
+        content: "Freelancer|";
+    }
+
+    70% {
+
+        content: "Fre|";
+    }
+
+    75% {
+        content: "|";
+    }
+
+    80% {
+
+
+        content: "Photogr|";
+    }
+
+    90% {
+
+        content: "Photographer|";
+    }
+
+    95% {
+
+        content: "Photogr|";
+    }
+
+    100% {
+
+        content: "|";
+    }
+}
